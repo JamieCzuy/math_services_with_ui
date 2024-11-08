@@ -1,0 +1,1012 @@
+[
+{
+    "model": "services.squaresdifference",
+    "pk": 1,
+    "fields": {
+        "given_number": 0,
+        "value": 0,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 2,
+    "fields": {
+        "given_number": 1,
+        "value": 0,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 3,
+    "fields": {
+        "given_number": 2,
+        "value": 4,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 4,
+    "fields": {
+        "given_number": 3,
+        "value": 22,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 5,
+    "fields": {
+        "given_number": 4,
+        "value": 70,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 6,
+    "fields": {
+        "given_number": 5,
+        "value": 170,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 7,
+    "fields": {
+        "given_number": 6,
+        "value": 350,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 8,
+    "fields": {
+        "given_number": 7,
+        "value": 644,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 9,
+    "fields": {
+        "given_number": 8,
+        "value": 1092,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 10,
+    "fields": {
+        "given_number": 9,
+        "value": 1740,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 11,
+    "fields": {
+        "given_number": 10,
+        "value": 2640,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 12,
+    "fields": {
+        "given_number": 11,
+        "value": 3850,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 13,
+    "fields": {
+        "given_number": 12,
+        "value": 5434,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 14,
+    "fields": {
+        "given_number": 13,
+        "value": 7462,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 15,
+    "fields": {
+        "given_number": 14,
+        "value": 10010,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 16,
+    "fields": {
+        "given_number": 15,
+        "value": 13160,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 17,
+    "fields": {
+        "given_number": 16,
+        "value": 17000,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 18,
+    "fields": {
+        "given_number": 17,
+        "value": 21624,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 19,
+    "fields": {
+        "given_number": 18,
+        "value": 27132,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 20,
+    "fields": {
+        "given_number": 19,
+        "value": 33630,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 21,
+    "fields": {
+        "given_number": 20,
+        "value": 41230,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 22,
+    "fields": {
+        "given_number": 21,
+        "value": 50050,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 23,
+    "fields": {
+        "given_number": 22,
+        "value": 60214,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 24,
+    "fields": {
+        "given_number": 23,
+        "value": 71852,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 25,
+    "fields": {
+        "given_number": 24,
+        "value": 85100,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 26,
+    "fields": {
+        "given_number": 25,
+        "value": 100100,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 27,
+    "fields": {
+        "given_number": 26,
+        "value": 117000,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 28,
+    "fields": {
+        "given_number": 27,
+        "value": 135954,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 29,
+    "fields": {
+        "given_number": 28,
+        "value": 157122,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 30,
+    "fields": {
+        "given_number": 29,
+        "value": 180670,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 31,
+    "fields": {
+        "given_number": 30,
+        "value": 206770,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 32,
+    "fields": {
+        "given_number": 31,
+        "value": 235600,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 33,
+    "fields": {
+        "given_number": 32,
+        "value": 267344,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 34,
+    "fields": {
+        "given_number": 33,
+        "value": 302192,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 35,
+    "fields": {
+        "given_number": 34,
+        "value": 340340,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 36,
+    "fields": {
+        "given_number": 35,
+        "value": 381990,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 37,
+    "fields": {
+        "given_number": 36,
+        "value": 427350,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 38,
+    "fields": {
+        "given_number": 37,
+        "value": 476634,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 39,
+    "fields": {
+        "given_number": 38,
+        "value": 530062,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 40,
+    "fields": {
+        "given_number": 39,
+        "value": 587860,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 41,
+    "fields": {
+        "given_number": 40,
+        "value": 650260,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 42,
+    "fields": {
+        "given_number": 41,
+        "value": 717500,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 43,
+    "fields": {
+        "given_number": 42,
+        "value": 789824,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 44,
+    "fields": {
+        "given_number": 43,
+        "value": 867482,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 45,
+    "fields": {
+        "given_number": 44,
+        "value": 950730,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 46,
+    "fields": {
+        "given_number": 45,
+        "value": 1039830,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 47,
+    "fields": {
+        "given_number": 46,
+        "value": 1135050,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 48,
+    "fields": {
+        "given_number": 47,
+        "value": 1236664,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 49,
+    "fields": {
+        "given_number": 48,
+        "value": 1344952,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 50,
+    "fields": {
+        "given_number": 49,
+        "value": 1460200,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 51,
+    "fields": {
+        "given_number": 50,
+        "value": 1582700,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 52,
+    "fields": {
+        "given_number": 51,
+        "value": 1712750,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 53,
+    "fields": {
+        "given_number": 52,
+        "value": 1850654,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 54,
+    "fields": {
+        "given_number": 53,
+        "value": 1996722,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 55,
+    "fields": {
+        "given_number": 54,
+        "value": 2151270,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 56,
+    "fields": {
+        "given_number": 55,
+        "value": 2314620,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 57,
+    "fields": {
+        "given_number": 56,
+        "value": 2487100,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 58,
+    "fields": {
+        "given_number": 57,
+        "value": 2669044,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 59,
+    "fields": {
+        "given_number": 58,
+        "value": 2860792,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 60,
+    "fields": {
+        "given_number": 59,
+        "value": 3062690,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 61,
+    "fields": {
+        "given_number": 60,
+        "value": 3275090,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 62,
+    "fields": {
+        "given_number": 61,
+        "value": 3498350,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 63,
+    "fields": {
+        "given_number": 62,
+        "value": 3732834,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 64,
+    "fields": {
+        "given_number": 63,
+        "value": 3978912,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 65,
+    "fields": {
+        "given_number": 64,
+        "value": 4236960,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 66,
+    "fields": {
+        "given_number": 65,
+        "value": 4507360,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 67,
+    "fields": {
+        "given_number": 66,
+        "value": 4790500,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 68,
+    "fields": {
+        "given_number": 67,
+        "value": 5086774,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 69,
+    "fields": {
+        "given_number": 68,
+        "value": 5396582,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 70,
+    "fields": {
+        "given_number": 69,
+        "value": 5720330,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 71,
+    "fields": {
+        "given_number": 70,
+        "value": 6058430,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 72,
+    "fields": {
+        "given_number": 71,
+        "value": 6411300,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 73,
+    "fields": {
+        "given_number": 72,
+        "value": 6779364,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 74,
+    "fields": {
+        "given_number": 73,
+        "value": 7163052,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 75,
+    "fields": {
+        "given_number": 74,
+        "value": 7562800,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 76,
+    "fields": {
+        "given_number": 75,
+        "value": 7979050,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 77,
+    "fields": {
+        "given_number": 76,
+        "value": 8412250,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 78,
+    "fields": {
+        "given_number": 77,
+        "value": 8862854,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 79,
+    "fields": {
+        "given_number": 78,
+        "value": 9331322,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 80,
+    "fields": {
+        "given_number": 79,
+        "value": 9818120,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 81,
+    "fields": {
+        "given_number": 80,
+        "value": 10323720,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 82,
+    "fields": {
+        "given_number": 81,
+        "value": 10848600,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 83,
+    "fields": {
+        "given_number": 82,
+        "value": 11393244,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 84,
+    "fields": {
+        "given_number": 83,
+        "value": 11958142,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 85,
+    "fields": {
+        "given_number": 84,
+        "value": 12543790,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 86,
+    "fields": {
+        "given_number": 85,
+        "value": 13150690,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 87,
+    "fields": {
+        "given_number": 86,
+        "value": 13779350,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 88,
+    "fields": {
+        "given_number": 87,
+        "value": 14430284,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 89,
+    "fields": {
+        "given_number": 88,
+        "value": 15104012,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 90,
+    "fields": {
+        "given_number": 89,
+        "value": 15801060,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 91,
+    "fields": {
+        "given_number": 90,
+        "value": 16521960,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 92,
+    "fields": {
+        "given_number": 91,
+        "value": 17267250,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 93,
+    "fields": {
+        "given_number": 92,
+        "value": 18037474,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 94,
+    "fields": {
+        "given_number": 93,
+        "value": 18833182,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 95,
+    "fields": {
+        "given_number": 94,
+        "value": 19654930,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 96,
+    "fields": {
+        "given_number": 95,
+        "value": 20503280,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 97,
+    "fields": {
+        "given_number": 96,
+        "value": 21378800,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 98,
+    "fields": {
+        "given_number": 97,
+        "value": 22282064,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 99,
+    "fields": {
+        "given_number": 98,
+        "value": 23213652,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 100,
+    "fields": {
+        "given_number": 99,
+        "value": 24174150,
+        "occurrences": 0,
+        "last_requested": null
+    }
+},
+{
+    "model": "services.squaresdifference",
+    "pk": 101,
+    "fields": {
+        "given_number": 100,
+        "value": 25164150,
+        "occurrences": 0,
+        "last_requested": null
+    }
+}
+]
